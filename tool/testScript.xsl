@@ -7,6 +7,7 @@
     <xsl:template match="/">
         <root>
             <xsl:value-of select="'Amit creation'"/>
+            <xsl:value-of select="'Amit 1st change'"/>
         </root>
     </xsl:template>
     
